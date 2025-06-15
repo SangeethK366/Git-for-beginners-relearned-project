@@ -1,2 +1,3 @@
 #ignore compiled .txt file
 compiled.txt
+!readme.txt
